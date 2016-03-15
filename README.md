@@ -1,3 +1,7 @@
+FORK ALERT
+==========
+This fork has been smashed lightly to build on VS2015. The parser and scanner are committed, but otherwise, it's just sln/vcxproj files and a unistd and getopt dependencies.
+
 C-Compiler
 ==========
 
