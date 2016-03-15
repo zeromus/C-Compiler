@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C-Compiler", "C-Compiler.vcxproj", "{09965C69-2F78-4078-9944-866AF2A7610E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compiler", "compiler\compiler.vcxproj", "{DE3ABA80-160B-4555-981C-D9CBBD85046F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "compiler", "compiler.vcxproj", "{DE3ABA80-160B-4555-981C-D9CBBD85046F}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "machine", "machine.vcxproj", "{EF78BA7A-6AA7-454F-8818-96F09A0B258D}"
 EndProject

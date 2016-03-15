@@ -15,3 +15,15 @@
 *.exe
 *.out
 *.app
+/.vs/C-Compiler/v14/*.suo
+/C-Compiler.Debug/*.pdb
+/*.opendb
+/*.sdf
+/Debug
+/Release
+/*.ilk
+/*.pdb
+/machine.Debug
+/machine.Release
+/*.iobj
+/*.ipdb
